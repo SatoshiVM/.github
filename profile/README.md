@@ -8,6 +8,6 @@ SatoshiVM is a decentralized Bitcoin ZK Rollup Layer-2 solution compatible with 
 
 [Documentation](https://docs.satoshivm.io/satoshivm/overview)
 
-[SatoshiVM Bridge](https://bridge.satoshivm.io/)
+[Official Bridge](https://bridge.satoshivm.io/)
 
-[SatoshiVM Testnet Explorer](https://testnet.svmscan.io/)
+[Blockchain Explorer](https://svmscan.io/)
