@@ -1,4 +1,4 @@
-[![Check it out](https://img.shields.io/badge/Website-Check%20it%20out-orange)](https://satoshivm.io/) [![Live on Testnet](https://img.shields.io/badge/Blockchain%20Explorer-Live%20on%20Testnet-orange)](https://testnet.svmscan.io/) [![Live on Testnet](https://img.shields.io/badge/SatoshiVM%20Bridge-Live%20on%20Testnet-orange)](https://bridge.satoshivm.io/)
+[![Check it out](https://img.shields.io/badge/Website-Check%20it%20out-orange)](https://satoshivm.io/) [![Live on Alpha Mainnet](https://img.shields.io/badge/Blockchain%20Explorer-Live%20on%20Alpha%20Mainnet-orange)](https://svmscan.io/) [![Live on Alpha Mainnet](https://img.shields.io/badge/SatoshiVM%20Bridge-Live%20on%20Alpha%20Mainnet-orange)](https://bridge.satoshivm.io/)
 
 ## SatoshiVM
 
